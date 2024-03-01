@@ -1,0 +1,52 @@
+html, body{
+    padding: 0%;
+    margin: 0%;
+   
+}
+body{
+    height: 100%;
+}
+.Bandera{
+}
+.linea-sup{
+
+    width: 35%;
+    height: calc(100%/3);
+    background-color: blueviolet;
+    position: absolute;
+    left: 30%;
+    bottom: 500px;
+    height: 100px;
+  
+
+    }
+.linea-media{
+    width: 35%;
+  height: calc(100%/3);
+    background-color: aqua;
+    position: absolute;
+    left: 30%;
+    bottom: 400px;
+    height: 100px;
+}
+.linea-inferior{
+    width: 35%;
+    height: calc(100%/3);
+    background-color: gold;
+    position: absolute;
+    left: 30%;
+    bottom: 300px;
+    height: 100px;
+    
+}
+.simbolo{
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    border-radius: 50%;
+
+}

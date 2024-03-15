@@ -1,0 +1,56 @@
+.contenedor {
+    color: white;
+    border: 5px solid gold;
+    display: flex;
+  flex-direction: column;
+}
+
+.rojo {
+    background-color: #eb4d4b;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 75px;
+    height: 120px;
+}
+.naranja {
+    background-color: #f0932b;
+    flex-grow: 1;
+    width: 75px;
+    height: 120px;
+    flex-direction: column;
+}
+.amarillo {
+    background-color: #f6e58d;
+    flex-grow: 1;
+    width: 75px;
+    flex-direction: column;
+    height: 120px;
+}
+.verde {
+    background-color: #6ab04c;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 75px;
+    height: 120px;
+}
+.azul {
+    background-color: #4834d4;
+    flex-grow: 1;
+    flex-direction: column;
+    width: 75px;
+    height: 120px;
+}
+.indigo {
+    background-color: #30336b;
+    flex-grow: 1;
+    flex-direction: column;
+    width: 75px;
+    height: 120px;
+}
+.morado {
+    background-color: #be2edd;
+    flex-grow: 1;
+    width: 75px;
+    flex-direction: column;
+    height: 120px;
+}

@@ -1,0 +1,104 @@
+nav{
+    width: 3000px;
+    display: flex;
+    justify-content: space-around;
+
+}
+a{
+    background-color: lightgray;
+    border-radius: 8px;
+    height: 30px;
+    width: 250px;
+    align-items: center;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-around;
+    font-style: normal;
+    color: black;
+
+}
+
+
+
+
+
+body{
+
+     background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: initial;
+
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+h1{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: white;
+    height: 60px;
+    width: 1700px;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img{
+    display: flex;
+     flex-direction: column;
+     
+
+}
+section{
+
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    justify-content: space-around;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    
+
+}
+main{
+    background-color: gray;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 700px;
+    width: 3000px;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+footer{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 3000px;
+    border-radius: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    height: 30px;
+    width: 380px;
+    border: 0px;
+    font-family: sans-serif;
+    justify-content: space-around;
+}
